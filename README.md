@@ -1,6 +1,6 @@
 # Linux-EveryDay
 ### Linux是什么 ： <https://zh.wikipedia.org/wiki/Linux>
-#### 每天一个实用的Linux基础命令[常用]，结合老师课件以及网上资料，轻轻松松让你掌握Linux的基础使用...
+#### 每天一个实用的Linux基础命令【常用】，结合老师课件以及网上资料，轻轻松松让你掌握Linux的基础使用...
 #### 命令演示的效果来自**Ubuntu 14.04.5**
 ***
 #### 2017-07-06
@@ -46,10 +46,9 @@ ls -i #显示文件的软链接
 ***
 ```
 cd 命令-随处逛逛【小技巧，按Tab键自动补全目录】
-cd /home/andy/Desktop	# 进入/usr 目录
+cd /home/andy/Desktop	# 进入andy用户桌面目录
 cd	# 返回我的主目录
 cd ~	# 返回我的主目录
-cd ~xiaobai	# 进入 xiaobai 的主目录
 cd -	# 回到上次去的目录
 cd .. #回到上级目录
 pwd  命令：我到哪儿了？
