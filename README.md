@@ -55,4 +55,4 @@ cd .. #回到上级目录
 pwd  命令：我到哪儿了？
 pwd
 ```
-![](http://or30iz1wj.bkt.clouddn.com/cd.jpg)
+![](http://or30iz1wj.bkt.clouddn.com/cdok.jpg)
