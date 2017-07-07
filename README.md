@@ -44,6 +44,7 @@ ls -i #显示文件的软链接
 ```
 ![](http://or30iz1wj.bkt.clouddn.com/ls.gif)
 ***
+```
 cd 命令-随处逛逛【小技巧，按Tab键自动补全目录】
 cd /home/andy/Desktop	# 进入/usr 目录
 cd	# 返回我的主目录
@@ -53,4 +54,5 @@ cd -	# 回到上次去的目录
 cd .. #回到上级目录
 pwd  命令：我到哪儿了？
 pwd
+```
 ![](http://or30iz1wj.bkt.clouddn.com/cd.jpg)
