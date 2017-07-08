@@ -56,3 +56,15 @@ pwd  命令：我到哪儿了？
 pwd
 ```
 ![](http://or30iz1wj.bkt.clouddn.com/cdok.jpg)
+***
+### 2017-07-06
+```
+mkdir创建文件夹命令
+mkdir ** #在当前目录创建文件夹
+mkdir -p **/** #在文件夹下创建文件夹，用于逐层创建文件夹
+```
+![](http://or30iz1wj.bkt.clouddn.com/mkdir.jpg)
+
+
+
+
