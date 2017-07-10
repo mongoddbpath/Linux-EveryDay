@@ -74,7 +74,8 @@ who am i	# 我究竟是谁？
 who	# 都有谁在呀？
 w	# 都有谁在呀？
 ```
-![]()
+![](http://or30iz1wj.bkt.clouddn.com/whoami.jpg)
+***
 
 
 
