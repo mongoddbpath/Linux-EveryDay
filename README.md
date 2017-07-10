@@ -76,6 +76,7 @@ w	# 都有谁在呀？
 ```
 ![](http://or30iz1wj.bkt.clouddn.com/whoami.jpg)
 ***
+### 2017-07-10
 ```
 rm 命令 - 删除文件
 删除文件
