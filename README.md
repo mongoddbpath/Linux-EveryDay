@@ -67,7 +67,7 @@ mkdir -p **/** #在文件夹下创建文件夹，用于逐层创建文件夹
 ***
 ### 2017-07-09
 ```
-who 命令-我是谁
+who 命令 - 我是谁
 查看用户
 whoami	# 我是谁？  
 who am i	# 我究竟是谁？ 
@@ -76,7 +76,20 @@ w	# 都有谁在呀？
 ```
 ![](http://or30iz1wj.bkt.clouddn.com/whoami.jpg)
 ***
+```
+rm 命令 - 删除文件
+删除文件
+rm f8 f9  # 删除f8,f9
+rm -i f7 # 删除前确认
+rm -f f* # 强行删除
 
+rmdir 命令 - 删除目录
+rmdir d7 d8 # 删除空目录
+rmdir -p dir1/dir2/dir3 # 删除多层空目录
+rm -r d6 dir1 # 删除目录
+rm -rf / # 删除所有文件!!! （Linux自杀命令）
+```
+![](http://or30iz1wj.bkt.clouddn.com/rmdir.jpg)
 
 
 
