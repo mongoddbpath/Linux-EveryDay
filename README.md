@@ -83,7 +83,8 @@ rm 命令 - 删除文件
 rm f8 f9  # 删除f8,f9
 rm -i f7 # 删除前确认
 rm -f f* # 强行删除
-
+```
+```
 rmdir 命令 - 删除目录
 rmdir d7 d8 # 删除空目录
 rmdir -p dir1/dir2/dir3 # 删除多层空目录
