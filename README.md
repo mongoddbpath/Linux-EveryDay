@@ -92,9 +92,25 @@ rm -r d6 dir1 # 删除目录
 rm -rf / # 删除所有文件!!! （Linux自杀命令）
 ```
 ![](http://or30iz1wj.bkt.clouddn.com/rmdir.jpg)
-
-
-
+***
+### 2017-07-11
+```
+***
+### 2017-07-10
+```
+mv 命令 - 移动命令
+mv f4 f4.1	# 将 f4 移动 (重命名) 为 f4.1
+mv f5 d3	# 将文件移动到目录
+mv -i f5 f6	# 覆盖时提示
+mv -b f6 f666 #做简单备份
+mv -f f666 d6/ #强制移动
+mv f6 c/f6.1	# 移动并改名
+mv	*.1 d4	# 将文件移动到目录
+移动目录
+mv d4 dir1/dir2 #移动目录
+mv d5 d05 #目录改名
+![](http://or30iz1wj.bkt.clouddn.com/6a1.jpg)
+![](http://or30iz1wj.bkt.clouddn.com/66aa6.jpg)
 
 
 
