@@ -109,6 +109,7 @@ mv	*.1 d4	# 将文件移动到目录
 移动目录
 mv d4 dir1/dir2 #移动目录
 mv d5 d05 #目录改名
+```
 ![](http://or30iz1wj.bkt.clouddn.com/6a1.jpg)
 ![](http://or30iz1wj.bkt.clouddn.com/66aa6.jpg)
 
