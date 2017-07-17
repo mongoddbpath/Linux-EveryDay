@@ -123,7 +123,6 @@ cp -s test6 test7 #建立一个连结档
 ### 第七天
 ```
 touch 命令 - 创建文件命令
-```
 touch hello.js
 vim hello.js
 ```
