@@ -110,6 +110,14 @@ mv d5 d05 #目录改名
 ```
 ![](http://or30iz1wj.bkt.clouddn.com/6a1.jpg)
 ![](http://or30iz1wj.bkt.clouddn.com/66aa6.jpg)
-
+***
+### 第七天
+```
+cp 命令 - 复制命令
+cp test1 test2#复制单个文件到目标目录，文件在目标文件中不存在
+cp -a test3 test5 #复制整个目录
+cp -s test6 test7 #建立一个连结档
+```
+![](http://or30iz1wj.bkt.clouddn.com/Cp61.jpg)
 
 
