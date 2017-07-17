@@ -137,6 +137,24 @@ cat hello.js world.js > helloLinux.js #合并文件
 cat hello.js > hello2.js #相当于复制
 ```
 ![](http://or30iz1wj.bkt.clouddn.com/cat61.jpg)
+***
+### 第十天
+```
+more命令 - 逐页阅读信息命令
+常用操作命令：
+Enter    向下n行，需要定义。默认为1行
+Ctrl+F   向下滚动一屏
+空格键  向下滚动一屏
+Ctrl+B  返回上一屏
+=       输出当前行的行号
+：f     输出文件名和当前行的行号
+V      调用vi编辑器
+!命令   调用Shell，并执行命令 
+q       退出more
+
+man cat | more
+```
+![](http://or30iz1wj.bkt.clouddn.com/more61.jpg)
 
 
 
