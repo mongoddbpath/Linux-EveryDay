@@ -127,7 +127,16 @@ touch hello.js
 vim hello.js
 ```
 ![](http://or30iz1wj.bkt.clouddn.com/touch61.jpg)
-
+***
+### 第九天
+```
+cat命令 - 标准打印命令
+cat hello.js #打印查看hello.js的信息
+cat -n hello.js #打印查看的同时看见行号
+cat hello.js world.js > helloLinux.js #合并文件
+cat hello.js > hello2.js #相当于复制
+```
+![](http://or30iz1wj.bkt.clouddn.com/cat61.jpg)
 
 
 
