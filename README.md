@@ -129,7 +129,13 @@ q       退出more
 man cat | more
 ```
 ![](http://or30iz1wj.bkt.clouddn.com/more61.jpg)
-
-
-
+***
+### 第十一天
+```
+tail命令 - 常用显示命令
+tail hello.js #普通查看
+tail -n 2 hello.js #查看最后2行
+tail -f tail.log #循环查看
+```
+![](http://or30iz1wj.bkt.clouddn.com/tail666.jpg)
 
